@@ -1,3 +1,3 @@
-[submodule "KindleClippingsSearcher"]
-	path = KindleClippingsSearcher
-	url = https://github.com/thomaswacquet/KindleClippingsSearcher
+[submodule "KindleHighlightExplorer"]
+	path = KindleHighlightExplorer
+	url = https://github.com/thomaswacquet/KindleHighlightExplorer
