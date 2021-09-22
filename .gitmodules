@@ -1,0 +1,3 @@
+[submodule "KindleHighlightExplorer"]
+	path = KindleHighlightExplorer
+	url = https://github.com/thomaswacquet/KindleHighlightExplorer
